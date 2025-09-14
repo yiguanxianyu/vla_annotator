@@ -1,0 +1,15 @@
+torch
+torchvision
+transformers>=4.43
+accelerate
+peft
+einops
+safetensors
+numpy
+Pillow
+PyYAML
+jsonschema
+scipy
+scikit-image
+opencv-python
+bitsandbytes; platform_system != "Windows"

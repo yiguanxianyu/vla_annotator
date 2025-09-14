@@ -1,0 +1,54 @@
+model:
+  base: Qwen/Qwen2.5-VL-3B-Instruct
+  max_frames: 64
+  add_tokens: ["<JSON>","<THOUGHT>","<SEG_START>","<SEG_END>","<START_FRAME>","<END_FRAME>","<FRAME>"]
+  k_max: 12
+
+qlora:
+  load_in_4bit: true
+  quant_type: nf4
+  compute_dtype: bfloat16
+  double_quant: true
+
+lora:
+  r: 32
+  alpha: 32
+  dropout: 0.05
+  target_modules: ["q_proj","k_proj","v_proj","o_proj","mm_mlp_proj"]
+
+loss_weights:
+  txt: 1.0
+  k: 1.0
+  heatmap: 1.0
+  len_prior: 0.1
+  overlap: 0.1
+
+heatmap:
+  sigma: 2.0
+  pos_weight: 8.0
+  focal_gamma: 0.0  # set >0 to enable focal instead of pos_weight
+  min_len: 4
+
+optimizer:
+  lr: 5.0e-5
+  betas: [0.9, 0.95]
+  weight_decay: 0.01
+
+scheduler:
+  type: cosine
+  warmup_ratio: 0.05
+
+train:
+  epochs: 3
+  batch_size: 2
+  grad_accum: 32
+  max_tokens: 2048
+  curriculum_pct: 0.2
+  num_workers: 4
+  data: data/episodes.jsonl
+  output_dir: outputs/qlora_run
+  log_interval: 50
+
+eval:
+  tiou_thresh: [0.3, 0.5]
+

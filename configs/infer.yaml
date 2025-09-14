@@ -1,0 +1,28 @@
+model:
+  base: Qwen/Qwen2.5-VL-3B-Instruct
+  max_frames: 128
+  add_tokens: ["<JSON>","<THOUGHT>","<SEG_START>","<SEG_END>","<START_FRAME>","<END_FRAME>","<FRAME>"]
+  k_max: 12
+
+qlora:
+  load_in_4bit: false  # enable if bitsandbytes available
+  quant_type: nf4
+  compute_dtype: bfloat16
+  double_quant: true
+
+lora:
+  adapter_path: outputs/qlora_run/adapter  # set your trained adapter dir
+
+heatmap:
+  min_len: 4
+
+infer:
+  fps: 1.0
+  max_new_tokens: 512
+  system_prompt_template: |
+    你是一名机器人视频标注助手。请根据视频，生成该 episode 的动作标注 JSON。
+    只输出 JSON，不要额外解释。episode_id=${EPISODE_ID}
+  input_frames: []   # optional override from CLI
+  episode_id: 0
+  save_path: outputs/pred.json
+
