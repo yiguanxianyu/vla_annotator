@@ -1,0 +1,3782 @@
+[
+    {
+        "episode_id": 843929,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 457,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 457,
+                    "end_frame": 876,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 876,
+                    "end_frame": 1659,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843280,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 525,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 525,
+                    "end_frame": 862,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 862,
+                    "end_frame": 1551,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843368,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 499,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 499,
+                    "end_frame": 875,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 875,
+                    "end_frame": 1843,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 845481,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 586,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 586,
+                    "end_frame": 1117,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1117,
+                    "end_frame": 2985,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842394,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 42,
+                    "end_frame": 839,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 839,
+                    "end_frame": 1364,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1364,
+                    "end_frame": 3836,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842684,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 656,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 656,
+                    "end_frame": 1121,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1121,
+                    "end_frame": 2563,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843146,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 25,
+                    "end_frame": 487,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 487,
+                    "end_frame": 1065,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1065,
+                    "end_frame": 3192,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842853,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 530,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 530,
+                    "end_frame": 987,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 987,
+                    "end_frame": 1920,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842834,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 26,
+                    "end_frame": 636,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 636,
+                    "end_frame": 1440,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1440,
+                    "end_frame": 3813,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843106,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 41,
+                    "end_frame": 841,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 841,
+                    "end_frame": 1500,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1500,
+                    "end_frame": 3752,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844070,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 32,
+                    "end_frame": 507,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 507,
+                    "end_frame": 879,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 879,
+                    "end_frame": 1782,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843162,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 409,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 409,
+                    "end_frame": 746,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 746,
+                    "end_frame": 1287,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843020,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 28,
+                    "end_frame": 728,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 728,
+                    "end_frame": 1356,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1356,
+                    "end_frame": 3952,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842720,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 573,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 573,
+                    "end_frame": 987,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 987,
+                    "end_frame": 2538,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842712,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 31,
+                    "end_frame": 567,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 567,
+                    "end_frame": 1125,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1125,
+                    "end_frame": 3168,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842862,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 485,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 485,
+                    "end_frame": 983,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 983,
+                    "end_frame": 1877,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842817,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 958,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 958,
+                    "end_frame": 1383,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1383,
+                    "end_frame": 3329,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842769,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 28,
+                    "end_frame": 668,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 668,
+                    "end_frame": 1245,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1245,
+                    "end_frame": 3534,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843299,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 651,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 651,
+                    "end_frame": 1135,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1135,
+                    "end_frame": 2635,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842902,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 485,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 485,
+                    "end_frame": 1024,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1024,
+                    "end_frame": 2010,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 852386,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 690,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 690,
+                    "end_frame": 1120,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1120,
+                    "end_frame": 2673,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842792,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 24,
+                    "end_frame": 658,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 658,
+                    "end_frame": 1187,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1187,
+                    "end_frame": 3053,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842819,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 36,
+                    "end_frame": 528,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 528,
+                    "end_frame": 1029,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1029,
+                    "end_frame": 3025,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843886,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 627,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 627,
+                    "end_frame": 1332,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1332,
+                    "end_frame": 3195,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844009,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 729,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 729,
+                    "end_frame": 1267,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1267,
+                    "end_frame": 3275,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844028,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 666,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 666,
+                    "end_frame": 1285,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1285,
+                    "end_frame": 3497,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843806,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 537,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 537,
+                    "end_frame": 975,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 975,
+                    "end_frame": 2597,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843899,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 512,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 512,
+                    "end_frame": 1111,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1111,
+                    "end_frame": 2883,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844019,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 30,
+                    "end_frame": 495,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 495,
+                    "end_frame": 783,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 783,
+                    "end_frame": 1545,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843135,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 455,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 455,
+                    "end_frame": 820,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 820,
+                    "end_frame": 1390,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843294,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 408,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 408,
+                    "end_frame": 747,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 747,
+                    "end_frame": 1354,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842407,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 28,
+                    "end_frame": 616,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 616,
+                    "end_frame": 1118,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1118,
+                    "end_frame": 3454,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842798,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 657,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 657,
+                    "end_frame": 1200,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1200,
+                    "end_frame": 3007,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843304,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 539,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 539,
+                    "end_frame": 939,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 939,
+                    "end_frame": 1462,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844065,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 24,
+                    "end_frame": 455,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 455,
+                    "end_frame": 790,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 790,
+                    "end_frame": 1515,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842920,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 30,
+                    "end_frame": 744,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 744,
+                    "end_frame": 1336,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1336,
+                    "end_frame": 3376,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843005,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 23,
+                    "end_frame": 616,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 616,
+                    "end_frame": 1142,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1142,
+                    "end_frame": 3837,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843805,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 31,
+                    "end_frame": 602,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 602,
+                    "end_frame": 1228,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1228,
+                    "end_frame": 3002,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843947,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 475,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 475,
+                    "end_frame": 953,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 953,
+                    "end_frame": 1942,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843435,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 24,
+                    "end_frame": 703,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 703,
+                    "end_frame": 1300,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1300,
+                    "end_frame": 3958,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844033,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 34,
+                    "end_frame": 519,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 519,
+                    "end_frame": 845,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 845,
+                    "end_frame": 1564,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843838,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 31,
+                    "end_frame": 564,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 564,
+                    "end_frame": 1164,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1164,
+                    "end_frame": 3092,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843984,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 439,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 439,
+                    "end_frame": 928,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 928,
+                    "end_frame": 3001,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844897,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 680,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 680,
+                    "end_frame": 1190,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1190,
+                    "end_frame": 3023,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843991,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 37,
+                    "end_frame": 469,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 469,
+                    "end_frame": 888,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 888,
+                    "end_frame": 1746,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843029,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 944,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 944,
+                    "end_frame": 1587,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1587,
+                    "end_frame": 3312,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843001,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 750,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 750,
+                    "end_frame": 1330,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1330,
+                    "end_frame": 3504,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843266,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 579,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 579,
+                    "end_frame": 923,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 923,
+                    "end_frame": 1524,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842730,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 8,
+                    "end_frame": 641,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 641,
+                    "end_frame": 1537,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1537,
+                    "end_frame": 3909,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843086,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 30,
+                    "end_frame": 606,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 606,
+                    "end_frame": 1313,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1313,
+                    "end_frame": 3787,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841520,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 672,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 672,
+                    "end_frame": 1417,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1417,
+                    "end_frame": 3999,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842376,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 700,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 700,
+                    "end_frame": 1568,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1568,
+                    "end_frame": 3858,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843861,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 525,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 525,
+                    "end_frame": 979,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 979,
+                    "end_frame": 1757,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843182,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 456,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 456,
+                    "end_frame": 856,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 856,
+                    "end_frame": 1486,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844047,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 31,
+                    "end_frame": 405,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 405,
+                    "end_frame": 688,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 688,
+                    "end_frame": 1603,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843071,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 574,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 574,
+                    "end_frame": 1147,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1147,
+                    "end_frame": 3066,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844071,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 21,
+                    "end_frame": 618,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 618,
+                    "end_frame": 1458,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1458,
+                    "end_frame": 3002,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844984,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 520,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 520,
+                    "end_frame": 952,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 952,
+                    "end_frame": 2555,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843828,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 468,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 468,
+                    "end_frame": 819,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 819,
+                    "end_frame": 1687,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843069,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 34,
+                    "end_frame": 606,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 606,
+                    "end_frame": 1332,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1332,
+                    "end_frame": 3838,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843129,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 29,
+                    "end_frame": 602,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 602,
+                    "end_frame": 1339,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1339,
+                    "end_frame": 3595,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844040,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 35,
+                    "end_frame": 484,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 484,
+                    "end_frame": 812,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 812,
+                    "end_frame": 1399,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844087,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 26,
+                    "end_frame": 403,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 403,
+                    "end_frame": 699,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 699,
+                    "end_frame": 1496,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843232,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 909,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 909,
+                    "end_frame": 1346,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1346,
+                    "end_frame": 3342,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843898,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 26,
+                    "end_frame": 816,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 816,
+                    "end_frame": 1406,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1406,
+                    "end_frame": 3793,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 845215,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 732,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 732,
+                    "end_frame": 1287,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1287,
+                    "end_frame": 2645,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 845174,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 644,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 644,
+                    "end_frame": 1244,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1244,
+                    "end_frame": 3171,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844888,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 529,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 529,
+                    "end_frame": 1093,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1093,
+                    "end_frame": 3050,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843882,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 31,
+                    "end_frame": 564,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 564,
+                    "end_frame": 1179,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1179,
+                    "end_frame": 3907,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843855,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 25,
+                    "end_frame": 633,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 633,
+                    "end_frame": 1229,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1229,
+                    "end_frame": 4108,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844956,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 536,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 536,
+                    "end_frame": 1002,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1002,
+                    "end_frame": 2815,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844934,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 823,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 823,
+                    "end_frame": 1351,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1351,
+                    "end_frame": 3338,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 843958,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 25,
+                    "end_frame": 609,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 609,
+                    "end_frame": 1640,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1640,
+                    "end_frame": 3775,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844043,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 19,
+                    "end_frame": 691,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 691,
+                    "end_frame": 1386,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1386,
+                    "end_frame": 3808,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844029,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 27,
+                    "end_frame": 877,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 877,
+                    "end_frame": 1609,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1609,
+                    "end_frame": 3826,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 844093,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 850,
+                    "action_text": "Fold the lower quarter of the beige short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 850,
+                    "end_frame": 1650,
+                    "action_text": "Fold the upper quarter of the beige short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1650,
+                    "end_frame": 3666,
+                    "action_text": "Grasp the beige short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 845396,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 691,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 691,
+                    "end_frame": 1284,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1284,
+                    "end_frame": 2708,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 845252,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 67,
+                    "end_frame": 685,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 685,
+                    "end_frame": 1341,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1341,
+                    "end_frame": 2902,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 845457,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 53,
+                    "end_frame": 753,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 753,
+                    "end_frame": 1277,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1277,
+                    "end_frame": 3077,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 852380,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 677,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 677,
+                    "end_frame": 1199,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1199,
+                    "end_frame": 2741,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841280,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 35,
+                    "end_frame": 978,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 978,
+                    "end_frame": 1554,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1554,
+                    "end_frame": 3909,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841246,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 53,
+                    "end_frame": 1088,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1088,
+                    "end_frame": 1670,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1670,
+                    "end_frame": 3790,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841664,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 23,
+                    "end_frame": 794,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 794,
+                    "end_frame": 1519,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1519,
+                    "end_frame": 3808,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841668,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 45,
+                    "end_frame": 652,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 652,
+                    "end_frame": 1129,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1129,
+                    "end_frame": 1890,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841243,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 633,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 633,
+                    "end_frame": 1224,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1224,
+                    "end_frame": 3647,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841891,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 632,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 632,
+                    "end_frame": 1051,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1051,
+                    "end_frame": 2067,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842113,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 30,
+                    "end_frame": 879,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 879,
+                    "end_frame": 1597,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1597,
+                    "end_frame": 3840,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841142,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 662,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 662,
+                    "end_frame": 1413,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1413,
+                    "end_frame": 3572,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842036,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 526,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 526,
+                    "end_frame": 993,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 993,
+                    "end_frame": 2576,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841293,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 799,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 799,
+                    "end_frame": 1426,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1426,
+                    "end_frame": 2625,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841025,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 827,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 827,
+                    "end_frame": 1419,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1419,
+                    "end_frame": 4061,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841472,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 702,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 702,
+                    "end_frame": 1136,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1136,
+                    "end_frame": 2328,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841535,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 907,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 907,
+                    "end_frame": 1546,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1546,
+                    "end_frame": 3736,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841868,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 557,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 557,
+                    "end_frame": 1225,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1225,
+                    "end_frame": 2907,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842247,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 85,
+                    "end_frame": 793,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 793,
+                    "end_frame": 1396,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1396,
+                    "end_frame": 3912,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842110,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 480,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 480,
+                    "end_frame": 866,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 866,
+                    "end_frame": 1532,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841774,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 802,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 802,
+                    "end_frame": 1390,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1390,
+                    "end_frame": 3099,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842058,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 24,
+                    "end_frame": 554,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 554,
+                    "end_frame": 1194,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1194,
+                    "end_frame": 3114,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841761,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 42,
+                    "end_frame": 902,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 902,
+                    "end_frame": 1579,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1579,
+                    "end_frame": 3505,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842133,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 556,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 556,
+                    "end_frame": 946,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 946,
+                    "end_frame": 1845,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842530,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 764,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 764,
+                    "end_frame": 1314,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1314,
+                    "end_frame": 3293,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842201,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 34,
+                    "end_frame": 715,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 715,
+                    "end_frame": 1470,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1470,
+                    "end_frame": 4387,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841127,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 649,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 649,
+                    "end_frame": 1230,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1230,
+                    "end_frame": 3304,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 840984,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 601,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 601,
+                    "end_frame": 1330,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1330,
+                    "end_frame": 4261,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841001,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 766,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 766,
+                    "end_frame": 1719,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1719,
+                    "end_frame": 4070,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841553,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 669,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 669,
+                    "end_frame": 1252,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1252,
+                    "end_frame": 3385,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841331,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 33,
+                    "end_frame": 820,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 820,
+                    "end_frame": 1409,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1409,
+                    "end_frame": 3420,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841398,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 553,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 553,
+                    "end_frame": 1023,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1023,
+                    "end_frame": 1937,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841177,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 622,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 622,
+                    "end_frame": 1240,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1240,
+                    "end_frame": 3012,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841452,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 607,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 607,
+                    "end_frame": 1406,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1406,
+                    "end_frame": 3660,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841865,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 25,
+                    "end_frame": 583,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 583,
+                    "end_frame": 1063,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1063,
+                    "end_frame": 3495,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841075,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 668,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 668,
+                    "end_frame": 1397,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1397,
+                    "end_frame": 3380,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841878,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 580,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 580,
+                    "end_frame": 998,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 998,
+                    "end_frame": 1999,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841316,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 53,
+                    "end_frame": 590,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 590,
+                    "end_frame": 1596,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1596,
+                    "end_frame": 3560,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841982,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 611,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 611,
+                    "end_frame": 1141,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1141,
+                    "end_frame": 2162,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842529,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 37,
+                    "end_frame": 724,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 724,
+                    "end_frame": 1276,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1276,
+                    "end_frame": 3689,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841859,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 542,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 542,
+                    "end_frame": 994,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 994,
+                    "end_frame": 1852,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841596,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 914,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 914,
+                    "end_frame": 1674,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1674,
+                    "end_frame": 3826,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842556,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 26,
+                    "end_frame": 568,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 568,
+                    "end_frame": 1556,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1556,
+                    "end_frame": 2901,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841415,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 646,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 646,
+                    "end_frame": 1207,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1207,
+                    "end_frame": 3535,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842031,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 638,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 638,
+                    "end_frame": 1281,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1281,
+                    "end_frame": 3423,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841818,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 31,
+                    "end_frame": 456,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 456,
+                    "end_frame": 988,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 988,
+                    "end_frame": 2826,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841618,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 514,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 514,
+                    "end_frame": 1069,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1069,
+                    "end_frame": 2983,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842070,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 38,
+                    "end_frame": 667,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 667,
+                    "end_frame": 1355,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1355,
+                    "end_frame": 3479,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842003,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 565,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 565,
+                    "end_frame": 1052,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1052,
+                    "end_frame": 1900,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841845,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 18,
+                    "end_frame": 575,
+                    "action_text": "Fold the lower quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 575,
+                    "end_frame": 1042,
+                    "action_text": "Fold the upper quarter of the striped short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1042,
+                    "end_frame": 2215,
+                    "action_text": "Grasp the striped short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842179,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 38,
+                    "end_frame": 740,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 740,
+                    "end_frame": 1457,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1457,
+                    "end_frame": 3765,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842465,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 660,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 660,
+                    "end_frame": 1187,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1187,
+                    "end_frame": 3149,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841555,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 734,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 734,
+                    "end_frame": 1407,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1407,
+                    "end_frame": 3963,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841575,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 683,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 683,
+                    "end_frame": 1367,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1367,
+                    "end_frame": 3718,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841653,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 760,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 760,
+                    "end_frame": 1355,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1355,
+                    "end_frame": 4471,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842570,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 533,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 533,
+                    "end_frame": 1020,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1020,
+                    "end_frame": 2598,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841804,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 26,
+                    "end_frame": 880,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 880,
+                    "end_frame": 1522,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1522,
+                    "end_frame": 3573,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841994,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 644,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 644,
+                    "end_frame": 1180,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1180,
+                    "end_frame": 3357,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842491,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 633,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 633,
+                    "end_frame": 1102,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1102,
+                    "end_frame": 2840,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 841896,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 755,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 755,
+                    "end_frame": 1326,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1326,
+                    "end_frame": 3339,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842540,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 34,
+                    "end_frame": 666,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 666,
+                    "end_frame": 1215,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1215,
+                    "end_frame": 3454,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842062,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 0,
+                    "end_frame": 834,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 834,
+                    "end_frame": 1538,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1538,
+                    "end_frame": 3651,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842605,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 29,
+                    "end_frame": 621,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 621,
+                    "end_frame": 1254,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1254,
+                    "end_frame": 3316,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    },
+    {
+        "episode_id": 842634,
+        "label_info": {
+            "action_config": [
+                {
+                    "start_frame": 26,
+                    "end_frame": 754,
+                    "action_text": "Fold the lower quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 754,
+                    "end_frame": 1294,
+                    "action_text": "Fold the upper quarter of the green short-sleeve garment to the middle with both arms.",
+                    "skill": "Fold"
+                },
+                {
+                    "start_frame": 1294,
+                    "end_frame": 3246,
+                    "action_text": "Grasp the green short-sleeve collar with both hands and fold it down to the hem.",
+                    "skill": "Fold"
+                }
+            ]
+        },
+        "task_name": "Fold T-shirts",
+        "init_scene_text": "Place the T-shirt face down on the bed/table with the neckline facing to the left."
+    }
+]
